@@ -1,5 +1,5 @@
 # dotfiles
-![Screenshot](/screenshots.png)
+![Screenshot](/screenshot.png)
 
 ### Table of Contents
 - [General info](#general-info)
@@ -18,6 +18,7 @@ My config files for Awesomewm and Polybar
 - termite(aur)
 - nitrogen
 - pulseaudio
+- dmenu
 
 ## Usage
 first of all install dependencys.
